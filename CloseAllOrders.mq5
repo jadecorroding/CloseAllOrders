@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                                        Close.mq5 |
-//|                        Copyright 2018, Jade Corroding.           |
+//|                                   Copyright 2018, Jade Corroding.|
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2018, MetaQuotes Software Corp."
